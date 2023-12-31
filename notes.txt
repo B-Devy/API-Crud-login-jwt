@@ -1,0 +1,15 @@
+npm init -y pour initialiser avec paramètres par défaut
+npm i mongodb
+npm i dotenv
+npm i bcryptjs
+ctrl + D pour la multi selection de VSCode
+npm i jswebtoken
+
+{
+    "email": "ppdaaaa@gmail.com",
+    "password": "polaris"
+}
+{
+    "email": "renard@laposte.fr",
+    "password": "canardo"
+}
